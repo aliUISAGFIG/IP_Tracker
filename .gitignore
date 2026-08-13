@@ -1,4 +1,23 @@
 # Byte-compiled / optimized / DLL files
+# Sensitive captured data
+captured_ips.txt
+
+# Ngrok executable
+ngrok.exe
+
+# Generated QR codes
+*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
 __pycache__/
 *.py[codz]
 *$py.class
